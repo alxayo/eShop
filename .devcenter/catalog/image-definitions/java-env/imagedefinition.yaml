@@ -6,7 +6,7 @@ description: "This definition is for the Java engineering environment"
 tasks:
   - name: ~/winget
     parameters:
-      downloadUrl: 'https://raw.githubusercontent.com/alxayo/eShop/refs/heads/main/.devcenter/catalog/image-definitions/java-env/common-config.dsc.yaml'
+      downloadUrl: 'https://raw.githubusercontent.com/alxayo/eShop/refs/heads/main/.configurations/common-config.dsc.yaml'
 
   - name: ~/winget
     description: Install Visual Studio Code
